@@ -1,1 +1,1 @@
-# PricePanel
+#Simple styling practice
